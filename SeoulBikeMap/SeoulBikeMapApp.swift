@@ -11,7 +11,7 @@ import SwiftUI
 struct SeoulBikeMapApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SelectRegionView()
         }
     }
 }
